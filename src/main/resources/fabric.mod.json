@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "shinypings",
+	"version": "${version}",
+	"name": "Shiny Pings",
+	"description": "Ping entities and items: glow + fake achievement toast for mobs, action-bar distance + big on-screen highlight for items.",
+	"authors": [
+		"You"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/shinypings/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.shinypings.ShinyPingsClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "shinypings.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
