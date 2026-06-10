@@ -1,4 +1,6 @@
-# Shiny Pings
+<p align="center">
+  <img src="docs/mod-header.png" alt="Shiny Pings" width="1200">
+</p>
 
 A **client-side** mod for Minecraft **26.1.2** (Fabric). Ping whatever you're looking at with
 the mouse wheel. Everything is local — nothing is sent to the server, so it works on any
