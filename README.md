@@ -59,7 +59,7 @@ Requires **JDK 25** (mandatory for 26.1). The Gradle wrapper (9.4.0) is included
 ./gradlew runClient
 ```
 
-The `.jar` lands in `build/libs/shiny-pings-1.0.0.jar`. Drop it in your `mods/` folder along
+The `.jar` lands in `build/libs/shiny-pings-1.0.1.jar`. Drop it in your `mods/` folder along
 with **Fabric API** and **Fabric Loader 0.19.3+**.
 
 > In IntelliJ IDEA (2025.3+): *Open* the folder → import the Gradle project → `runClient` is

@@ -5,7 +5,7 @@
 	"name": "Shiny Pings",
 	"description": "Ping entities and items: glow + fake achievement toast for mobs, action-bar distance + big on-screen highlight for items.",
 	"authors": [
-		"You"
+		"joshiny"
 	],
 	"contact": {},
 	"license": "MIT",
